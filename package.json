@@ -1,0 +1,24 @@
+{
+  "name": "codewars-challanges",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FixxxarN/codewars-challanges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FixxxarN/codewars-challanges/issues"
+  },
+  "homepage": "https://github.com/FixxxarN/codewars-challanges#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0"
+  }
+}
